@@ -1,1 +1,1 @@
-A
+# O tempo com prioridade e sem prioridade foi igual a 10 segundos
